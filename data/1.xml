@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estimate accepted="false">
+
+	<settings>
+		<auth>1Gawe8</auth>
+		<locale>en_GB</locale>
+		<title>Invoice Title</title>
+		<id>000001</id>
+		<emissiondate>01/01/2001</emissiondate>
+		<discount>15</discount>
+		<tax>23</tax>
+	</settings>
+	
+	<client>
+		<name>Client Name</name>
+		<address>Some Address</address>
+		<phone>(+00) 000 000 0000</phone>
+		<email>client@site.com</email>
+	</client>
+	
+	<items>
+	
+		<item>
+			<type>Design</type>
+			<description>Describe the type of work being offered here</description>
+			<explanation>A small explanation shows up on a tooltip, when you over each individual item.</explanation>
+			<rate>18</rate>
+			<hours>12</hours>
+		</item>
+	
+		<item>
+			<type>Design</type>
+			<description>Letterhead design and pre-production</description>
+			<rate>18</rate>
+			<hours>8</hours>
+		</item>
+	
+		<item>
+			<type>Development</type>
+			<description>HTML, PHP, CSS & Javascript coding</description>
+			<rate>24</rate>
+			<hours>12</hours>
+		</item>
+		
+	</items>
+	
+</estimate>

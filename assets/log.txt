@@ -1,0 +1,21 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+NEW MESSAGE
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Date: Wed Apr 11 23:29:55 PDT 2012 | Estimate ID: Orçamento #00112
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Someone (likely the customer) made a comment on an estimate. Check if you need to get back to him... 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+estimateId: Orçamento #00112 
+thisMuch: 860 
+deadline: maybe 
+emailCheck: emailCheck 
+emailAddress: colegiodasartes@colegiodasartes.uc.pt 
+phoneCheck: phoneCheck 
+phoneNo: (+351) 239 857 019 
+Message sent successfuly!
+
+
+

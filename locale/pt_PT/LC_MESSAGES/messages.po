@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eduardo Nunes - Accounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-07 23:58-0000\n"
+"PO-Revision-Date: 2012-10-08 00:11-0000\n"
+"Last-Translator: Eduardo Nunes <ed@eduardonunes.me>\n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: C:\\Users\\Eduardo\\SkyDrive\\Freelance\\Website\\server"
+"\\eduardonunes.me\\estimates\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:32 index.php:81
+msgid "Estimate"
+msgstr "Or&ccedil;amento"
+
+#: index.php:51
+msgid "We're all set!"
+msgstr "Est&aacute; tudo tratado!"
+
+#: index.php:51
+msgid "Estimate Accepted"
+msgstr "Or&ccedil;amento Aceite"
+
+#: index.php:53
+msgid "Looking good, right?"
+msgstr "Vamos a isso..."
+
+#: index.php:53
+msgid "Accept Estimate"
+msgstr "Aceitar Or&ccedil;amento"
+
+#: index.php:55
+msgid "Get in touch!"
+msgstr "Contacte-me"
+
+#: index.php:55
+msgid "Questions?"
+msgstr "D&uacute;vidas?"
+
+#: index.php:56
+msgid "Download Estimate"
+msgstr "Descarregar Or&ccedil;amento"
+
+#: index.php:82
+msgid "Created on"
+msgstr "Criado em"
+
+#: index.php:101
+msgid "Type"
+msgstr "Tipo"
+
+#: index.php:102
+msgid "Description"
+msgstr "Descri&ccedil;&atilde;o"
+
+#: index.php:103
+msgid "Rate"
+msgstr "Taxa"
+
+#: index.php:104
+msgid "Hours"
+msgstr "Horas"
+
+#: index.php:105
+msgid "Value"
+msgstr "Valor"
+
+#: index.php:117
+msgid "What's included?"
+msgstr "O que est&aacute; inclu&iacute;do?"
+
+#: index.php:131
+msgid "Subtotal"
+msgstr "Sub-total"
+
+#: index.php:133
+msgid "Discount"
+msgstr "Desconto"
+
+#: index.php:134
+msgid "Untaxed Total"
+msgstr "Total s/ IVA"
+
+#: index.php:137
+msgid "Tax"
+msgstr "Imposto"
+
+#: index.php:160
+msgid "Total"
+msgstr "Total"
+
+#: index.php:171 index.php:383
+msgid "Terms and Conditions"
+msgstr "Termos e Condi&ccedil;&otilde;es"
+
+#: index.php:185
+msgid "Awesome!"
+msgstr "Aceitar Or&ccedil;amento"
+
+#: index.php:188
+msgid "Looks like you're happy with the estimate - great!"
+msgstr "Tudo a postos para come&ccedil;armos a trabalhar!"
+
+#: index.php:189
+msgid ""
+"Just one last tick in the box below, and I'll be ready to get working "
+"immediately."
+msgstr ""
+"Agrade&ccedil;o apenas que confira o valor total uma &uacute;ltima vez, e "
+"confirme de seguida."
+
+#: index.php:192
+msgid "You should really tick this box first..."
+msgstr "Por favor confirme abaixo que pretende aprovar este or&ccedil;amento"
+
+#: index.php:194
+#, php-format
+msgid "I confirm that %s + taxes sounds fair"
+msgstr "Confirmo que %s + IVA me parece justo"
+
+#: index.php:198
+msgid "You did the right thing!"
+msgstr "&Eacute; um prazer poder trabalhar consigo!"
+
+#: index.php:199
+msgid ""
+"I'll get back to you really soon, so we can take care of the final details, "
+"before I get to work. Thank you for your business!"
+msgstr ""
+"Entrarei em contacto consigo assim que poss&iacute;vel, para podermos "
+"p&ocirc;r mais &agrave; obra quanto antes!"
+
+#: index.php:203
+msgid "Nevermind"
+msgstr "Ainda n&atilde;o"
+
+#: index.php:204
+msgid "Yes, we're good to go!"
+msgstr "Tudo a postos"
+
+#: index.php:205 index.php:374 index.php:421
+msgid "Close"
+msgstr "Fechar"
+
+#: index.php:216
+msgid "What's troubling you?"
+msgstr "O que o preocupa?"
+
+#: index.php:220
+msgid "I was expecting to pay less for your services"
+msgstr "Esperava pagar menos por este servi&ccedil;o"
+
+#: index.php:221
+msgid "I was hoping this could be ready sooner than that"
+msgstr "Preciso do projecto conclu&iacute;do em menos tempo"
+
+#: index.php:222
+msgid ""
+"The items described are incomplete, or are not the ones we discussed earlier"
+msgstr ""
+"Os itens descritos est&atilde;o incompletos, ou s&atilde;o diferentes do "
+"acordado inicialmente"
+
+#: index.php:223
+msgid "I want to discuss something else with you..."
+msgstr "Gostaria de discutir um outro assunto..."
+
+#: index.php:228
+msgid ""
+"I'm sorry to know that, but I'm sure we can work something out. Let's start "
+"right here..."
+msgstr ""
+"Lamento que o or&ccedil;amento apresentado n&atilde;o seja satisfat&oacute;"
+"rio, mas estou seguro de que conseguiremos chegar a um acordo..."
+
+#: index.php:236
+msgid "Deadline"
+msgstr "Prazos"
+
+#: index.php:238
+msgid ""
+"Would you be able to move the deadline further away, if the price went down "
+"a notch?"
+msgstr ""
+"Estaria disposto a alargar o prazo de execu&ccedil;&atilde;o, em virtude de "
+"uma redu&ccedil;&atilde;o no pre&ccedil;o?"
+
+#: index.php:241
+msgid "Deffinitely, this is not urgent"
+msgstr "Sim, n&atilde;o tenho urg&ecirc;ncia"
+
+#: index.php:245
+msgid "Yes, but no more than a couple of weeks"
+msgstr "Sim, mas n&atilde;o mais do que quinze dias"
+
+#: index.php:249
+msgid "Not really, it's kind of urgent"
+msgstr "N&atilde;o, isto &eacute; urgente"
+
+#: index.php:254 index.php:285 index.php:316 index.php:347
+msgid "Contacts"
+msgstr "Contactos"
+
+#: index.php:256 index.php:287 index.php:318
+msgid "How should I get back to you?"
+msgstr "Como prefere ser contactado?"
+
+#: index.php:258 index.php:289 index.php:320 index.php:351
+msgid "By e-mail"
+msgstr "Por e-mail"
+
+#: index.php:261 index.php:292 index.php:323 index.php:354
+msgid "By phone"
+msgstr "Por telefone"
+
+#: index.php:271
+msgid "I see you're in a hurry, so I won't take much of your time..."
+msgstr "Vejo que est&aacute; com pressa, portanto vamos directos ao assunto..."
+
+#: index.php:279
+msgid "When?"
+msgstr "Quando?"
+
+#: index.php:281
+msgid "When exactly do you need this?"
+msgstr "Qual a data limite para o projecto?"
+
+#: index.php:302
+msgid "My bad! Would you care to explain what's wrong, so I can fix it ASAP?"
+msgstr ""
+"Mea culpa! Por favor indique as falhas que detectou, para que possam ser "
+"revistas quanto antes. Entrarei em contacto consigo logo que poss&iacute;vel!"
+
+#: index.php:310 index.php:341
+msgid "What's wrong?"
+msgstr "Qual o problema?"
+
+#: index.php:333
+msgid "I see there's something you want to discuss... I'm all ears!"
+msgstr ""
+"Ao que vejo, h&aacute; algo que quer discutir comigo... Sou todo ouvidos!"
+
+#: index.php:349
+msgid "Do you want me to get back to you?"
+msgstr "Deseja que o contacte de volta?"
+
+#: index.php:363
+msgid "All right!"
+msgstr "Obrigado!"
+
+#: index.php:364
+msgid "Your message got here! I'll get in touch as soon as possible."
+msgstr "Recebi a sua mensagem! Entrarei em contacto assim que poss&iacute;vel!"
+
+#: index.php:368
+msgid "Uh-oh!"
+msgstr "Ooops!"
+
+#: index.php:369
+msgid ""
+"Something went wrong, and your message did not get here. Fortunately, "
+"everything (including this error) was logged, and is safely stored in my "
+"server. There's a slight chance I miss it, so please try again if I do not "
+"get back to you in the next 48 hours. Thank you!"
+msgstr ""
+"Algo correu mal, e a sua mensagem n&atilde;o chegou ao meu e-mail. "
+"Felizmente, tudo o que escreveu (assim como este erro) foi salvo neste "
+"servidor! Contudo, uma vez que h&aacute; uma boa hip&oacute;tese de a "
+"mensagem me escapar, agrade&ccedil;o que tente novamente, caso n&atilde;o "
+"obtenha resposta nas pr&oacute;ximas 48 horas. Obrigado!"
+
+#: index.php:373
+msgid "Start Over"
+msgstr "Voltar Atr&aacute;s"
+
+#: index.php:375
+msgid "Send"
+msgstr "Enviar"
+
+#: index.php:386
+msgid ""
+"Terms and conditions are neccessary, but no fun. That's why I've made them "
+"easier for you. Here's the scoop:"
+msgstr ""
+"Termos e condi&ccedil;&otilde;es s&atilde;o necess&aacute;rios, mas "
+"aborrecidos. Eis uma vers&atilde;o resumida das condi&ccedil;&otilde;es que "
+"proponho:"
+
+#: index.php:387
+msgid "Quote and Estimates"
+msgstr "Or&ccedil;amenta&ccedil;&atilde;o"
+
+#: index.php:388
+msgid ""
+"All values are based on projected hours, and final hours will be tracked "
+"using a neat little web service. You will never be charged more than what's "
+"listed right here, unless you eventually go berzerk and want a lot more "
+"stuff done, in which case I'll be happy to roll out a new estimate :)"
+msgstr ""
+"Todos os valores apresentados s&atilde;o baseados em horas projectadas. As "
+"horas totais a cobrar ser&atilde;o registadas com recurso a um servi&ccedil;"
+"o Web de contabiliza&ccedil;&atilde;o de horas. Contudo, o valor final nunca "
+"ultrapassar&aacute; os valores aqui apresentados, excepto na eventualidade "
+"do esfor&ccedil;o e/ou despesas envolvidas flutue."
+
+#: index.php:389
+msgid "Money Stuff"
+msgstr "Dinheiros e Afins"
+
+#: index.php:390
+msgid ""
+"I need you to pay 25&#37; of the total amount before I get to work. It's "
+"only fair - most people will charge you 50&#37; upfront. You can pay by "
+"credit card through PayPal, or by bank transfer."
+msgstr ""
+"Antes do in&iacute;cio dos trabalhos, &eacute; pedido ao cliente que proceda "
+"ao pagamento de 25&#37; do valor total. O pagamento pode ser feito em "
+"dinheiro, cheque, cart&atilde;o de cr&eacute;dito (via PayPal) ou "
+"transfer&ecirc;ncia banc&aacute;ria."
+
+#: index.php:391
+msgid "Other Stuff"
+msgstr "Outras Coisas"
+
+#: index.php:392
+msgid ""
+"We can make a written agreement, with additional terms, before we start "
+"working, so we're both at peace. Be aware that by accepting the estimate, "
+"you're agreeing with this legal stuff."
+msgstr ""
+"Podemos assinar um contrato de adjudica&ccedil;&atilde;o, antes de "
+"iniciarmos o trabalho, por forma a salvaguardar o interesse de ambos. A "
+"aceita&ccedil;&atilde;o deste or&ccedil;amento implica a aceita&ccedil;"
+"&atilde;o dos termos e condi&ccedil;&otilde;es."
+
+#: index.php:422
+msgid "Show me the Full Terms"
+msgstr "Quero ver tudo"
+
+#: index.php:423
+msgid "That's Way Too Much Text"
+msgstr "Isto &eacute; texto a mais"
+
+#: index.php:449
+msgid "This estimate is protected"
+msgstr "Este or&ccedil;amento encontra-se protegido"
+
+#: index.php:450
+msgid ""
+"You are trying to reach an address that was probably meant for the client "
+"only. If that's you, please follow the link provided to you by e-mail, or "
+"get in touch, using one of the contacts above. Thanks!"
+msgstr ""
+"Est&aacute; a tentar aceder a um endere&ccedil;o destinado exclusivamente ao "
+"cliente final. Se for voc&ecirc;, por favor siga o link enviado para o seu e-"
+"mail, ou entre em contacto comigo, atrav&eacute;s de um dos meios acima. "
+"Obrigado!"
+
+#~ msgid "What's this?"
+#~ msgstr "O que &eacute; isto?"
+
+#~ msgid "If you didn't mean to accept this estimate, drop me a line."
+#~ msgstr "Se aceitou este or&ccedil;amento por engano, contacte-me."
+
+#~ msgid "How much?"
+#~ msgstr "Quanto?"
+
+#~ msgid "How much were you honestly expecting?"
+#~ msgstr "Qual o valor que esperava?"
+
+#~ msgid ""
+#~ "Total hours for all items billed hourly estimated. Actual working hours "
+#~ "may fluctuate."
+#~ msgstr ""
+#~ "Os valores totais para todos os servi&ccedil;os facturados &agrave; hora"
+
+#~ msgid ""
+#~ "Total hours for each service item are calculated according to the "
+#~ "complexity of the tasks it implies. Working hours are tracked through the "
+#~ "Toggl web service, and do not include time spent with communications, "
+#~ "accounting and project management. Final cost for all items billed hourly "
+#~ "may fluctuate."
+#~ msgstr ""
+#~ "Os valores hor&aacute;rios apresentados s&atilde;o estimados em "
+#~ "fun&ccedil;&atilde;o da complexidade das tarefas que implicam. As horas "
+#~ "de trabalho efectivo ser&atilde;o registadas atrav&eacute;s do "
+#~ "servi&ccedil;o Web Toggle, e n&atilde;o incluem per&iacute;odos de "
+#~ "comunica&ccedil;&atilde;o, contabilidade e gest&atilde;o de projectos, "
+#~ "inimput&aacute;veis ao cliente. O custo final para todos os servi&ccedil;"
+#~ "os facturados &agrave; hora poder&aacute; flutuar."
+
+#~ msgid "Alright, close this now!"
+#~ msgstr "Fechar"

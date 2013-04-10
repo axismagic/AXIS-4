@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eduardo Nunes - Accounting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-11 09:57-0000\n"
+"PO-Revision-Date: 2012-04-11 09:58-0000\n"
+"Last-Translator: Eduardo Nunes <ed@nefasto.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .C:\\Freelance\\Website\\server\\eduardonunes.me\\estimates\\\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Freelance\\Website\\server\\eduardonunes.me\\estimates\\colegiodasartes\n"
+
+#: C:\Freelance\Website\server\eduardonunes.me\estimates\colegiodasartes/00112.php:20
+msgid "Estimate"
+msgstr "Orçamento"
+

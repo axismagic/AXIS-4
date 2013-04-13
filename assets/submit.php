@@ -14,18 +14,18 @@
 	
 	$log .= $body;
 	
-	$to = "ed@eduardonunes.me";
-	 $subject = "Eduardo Nunes - Estimate - Comment on " . $_POST['estimateId'];
-	 if (mail($to, $subject, $body)) {
+	$to = "you@provider.com";
+	$subject = "Eduardo Nunes - Estimate - Comment on " . $_POST['estimateId'];
+	if (mail($to, $subject, $body)) {
 
-      	echo json_encode(true);
-	  } else {
+      		echo json_encode(true);
+	} else {
 		$myFile = "log.txt";
 		$fh = fopen($myFile, 'a') or die("can't open file");
 		$log .= "Message failed! Please check with customer";
 		$log .= "\n\n\n\n";
 		fwrite($fh, $log);
 		fclose($fh);
-	  }
+	}
 
 ?>

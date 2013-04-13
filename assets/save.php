@@ -9,7 +9,7 @@
 		$xml->asXML($url);
 		
 		$messageBody = "Estimate #" . $_POST['id'] . " was accepted by the customer";
-		mail("ed@eduardonunes.me", "Estimate accepted", $messageBody);
+		mail("you@provider.com", "Estimate accepted", $messageBody);
 		
 	} else {
 		
